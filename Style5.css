@@ -1,0 +1,50 @@
+﻿H1 {
+	font-family: sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	font-style: italic;
+	color: #FF0000;
+	text-align: center;
+}
+H2 {
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	font-style: italic;
+	color: rgb(50%, 0%, 0%);
+}
+P {
+	font-family: sans-serif;
+	font-size: 12px;
+	font-weight: Bold;
+	font-style: italic;
+	color: #000066;
+	text-align: justify;
+}
+li {
+	font-family: serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-align: left;
+}
+ol {
+	list-style-type: decimal;
+}
+ul {
+	list-style-type: square;
+}
+table {
+	background-color: #FFFF00;
+	border-collapse: collapse;
+	border: 2px solid blue;
+	}
+td, th {
+	padding: 3px;
+	border: 2px solid #FF0000;
+}
+body {
+	background-image: url('Bground.jpg');
+	background-repeat: repeat;
+}
+/*Mazin*/
